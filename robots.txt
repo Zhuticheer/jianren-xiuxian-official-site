@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zhuticheer.github.io/jianren-xiuxian-official-site/sitemap.xml

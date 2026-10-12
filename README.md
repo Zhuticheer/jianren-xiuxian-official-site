@@ -20,3 +20,5 @@ https://zhuticheer.github.io/jianren-xiuxian-official-site/
 | video-poster.webp | video-poster.webp | 720×1280 | 237284 |
 
 八张宣传图均为已确认的AI美化图；额外四张在固定截图展示区延续现有交互。实机视频为当前生产构建的独立高阶展示存档，不公开游戏源码或存档。
+
+获取入口：https://tap.cn/568EzNfy。qr-1.png为用户提供的512×512 TapTap二维码，使用于官网获取区；二维码内容与链接已核对一致。

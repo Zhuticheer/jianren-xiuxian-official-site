@@ -15,3 +15,5 @@
 
 .feature-art img{height:320px;max-width:100%;filter:drop-shadow(0 12px 14px #384b3430)}
 @media(max-width:600px){.feature-panel{grid-template-columns:110px minmax(0,1fr)}.feature-art img{height:auto;max-height:220px}.feature-art{margin-top:0}.video-section{grid-template-columns:minmax(0,1fr)}.video-frame{max-width:276px!important}.hero picture img{max-height:430px;object-fit:contain}.hero-bar h2{font-size:24px}}
+
+.download-qr{width:160px;max-width:100%;height:auto;image-rendering:pixelated}.download-action .qr-caption{text-align:center;margin-top:8px}
